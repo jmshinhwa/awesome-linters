@@ -470,6 +470,7 @@ this topic will be welcome as well as links related to actual linters.
 
 ### YAML
 
+- [Kubernetes Removed API Lint](https://getreadystack.com/tools/k8s-removed-api-lint) - 15 checks for the apiVersions kubectl no longer serves, on the manifest open in your editor.
 - [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML
   linter, with out of the box support for OpenAPI v2/v3 and AsyncAPI v2.
 - [yamllint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
